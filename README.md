@@ -40,9 +40,8 @@ This project predicts whether a student is likely to be placed based on their **
 
 ---
 
-## Visualizations
+## Visualization
 
-- Scatter plot of IQ vs CGPA (colored by placement)
 - Decision boundary using `plot_decision_regions`
 
 <p align="center">
