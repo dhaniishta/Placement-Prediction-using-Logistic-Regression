@@ -45,7 +45,7 @@ This project predicts whether a student is likely to be placed based on their **
 - Decision boundary using `plot_decision_regions`
 
 <p align="center">
-  <img src="assets/decision_boundary.png" alt="Decision Boundary" width="500"/>
+  <img src="decision_boundary.png" alt="Decision Boundary" width="500"/>
 </p>
 
 ---
